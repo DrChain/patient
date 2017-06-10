@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">androidhb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="node_host">10.70.54.27</string>
+    <string name="node_port">8545</string>
+</resources>
